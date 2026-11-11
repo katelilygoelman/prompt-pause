@@ -8,6 +8,10 @@ A browser extension that adds a moment of pause before you send a prompt to an A
 
 Prompt Pause collects no data. Everything stays in your browser.
 
+## How it was made
+
+I built Prompt Pause with Claude. I'm not a programmer: I described what I wanted in plain words, and Claude helped me write the code, package it for the Chrome Web Store, and build the website. It's a small tool about using AI more thoughtfully, made by working thoughtfully with AI.
+
 - Chrome Web Store: https://chromewebstore.google.com/detail/prompt-pause/kiihjfgokodfjgomdjaialcjjchbaahh
 - Website: https://promptpauseai.netlify.app
 - Privacy: https://promptpauseai.netlify.app/#privacy
