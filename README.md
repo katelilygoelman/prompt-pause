@@ -1,6 +1,6 @@
 # Prompt Pause
 
-A small browser extension that adds a moment of pause before you send a prompt to an AI chat.
+A browser extension that adds a moment of pause before you send a prompt to an AI chat.
 
 - Pressing Enter won't send your message.
 - The Send button unlocks a few seconds after you stop typing (3 seconds by default), and needs a real mouse click.
